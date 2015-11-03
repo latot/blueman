@@ -1,3 +1,5 @@
+sudo: required
+dist: trusty
 script:
   - ./autogen.sh
   - make
